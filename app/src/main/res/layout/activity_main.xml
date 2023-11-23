@@ -44,13 +44,13 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:textAlignment="center"
                 android:gravity="center|center_horizontal|center_vertical"
+                android:text="Sudoku"
+                android:textAlignment="center"
                 android:textSize="20sp"
                 android:textStyle="bold"
-                android:text="Sudoku"
 
-                 />
+                />
 
             <Space
                 android:layout_width="wrap_content"
